@@ -1,7 +1,6 @@
 # 🚀 ServiceNow Employee Onboarding Automation
 
-![Project Status](https://shields.io)
-![Release](https://shields.io)
+
 
 ## 📌 Project Overview
 This project replaces fragmented manual hiring processes (emails/spreadsheets) with a **unified automation engine** within ServiceNow. It features a structured intake form, dynamic manager approval routing, and automated fulfillment tasking.
@@ -27,7 +26,7 @@ HR specialists utilize a custom-built **Record Producer** to initiate onboarding
 *   **Feature:** 1:1 Variable-to-Field mapping for data integrity.
 *   **Enhancement:** Reference-type mapping for Managers to link directly to the `sys_user` table.
 
-> **[INSERT SCREENSHOT: Intake Form]**
+> ![Intake Form](form.png)
 
 ### 2. Data Model (Custom Table)
 A standalone table acts as the system of record. 
