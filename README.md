@@ -62,8 +62,3 @@ End-to-end completion: The request record is successfully marked as **Completed*
 *   **Data Type Alignment:** Standardized variable types to match backend schema, preventing "undefined" values during the handoff from UI to Table.
 
 ---
-
-## 📈 Roadmap (Phase 2)
-- [ ] **Automated Provisioning:** Automated `sys_user` creation via Flow actions.
-- [ ] **Notification Engine:** Personalized welcome emails for new hires.
-- [ ] **Dynamic UI:** UI Policies to show/hide fields based on the selected Department.
