@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="New Employee Onboarding Request">5e775f7c4700cf105db7a464116d4329</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-02 14:19:21</sys_created_on>
+        <sys_id>731c67b447c0cf105db7a464116d4328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.New Employee Onboarding Request</sys_name>
+        <sys_package display_value="Employee Onboarding" source="x_1609789_employ_0">e8f0523847088f105db7a464116d4355</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Onboarding">e8f0523847088f105db7a464116d4355</sys_scope>
+        <sys_update_name>sc_cat_item_category_731c67b447c0cf105db7a464116d4328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-02 14:19:21</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
