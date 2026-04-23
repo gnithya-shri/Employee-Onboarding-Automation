@@ -32,7 +32,7 @@ HR specialists utilize a custom-built **Record Producer** to initiate onboarding
 A standalone table acts as the system of record. 
 *   **Field Optimization:** The `Employee Name` field is set as the **Display Value**, ensuring clean audit trails in the Approval Engine.
 
-> **[INSERT SCREENSHOT: Data Table]**
+![Data Table](table.png)
 
 ### 3. Logic Engine (Flow Designer)
 The "brain" of the application handles the lifecycle:
@@ -40,7 +40,7 @@ The "brain" of the application handles the lifecycle:
 *   **Departmental Branching:** `If/Else` logic to route tasks specifically to **IT, HR, or Finance**.
 *   **State Sync:** Flow "Waits for Condition" to ensure parent records close only when fulfillment is 100% finished.
 
-> **[INSERT SCREENSHOT: Flow Logic Diagram]**
+![Flow Logic Diagram](flow.png)
 
 ---
 
@@ -48,12 +48,12 @@ The "brain" of the application handles the lifecycle:
 ### 🚦 Workflow Trace
 The execution trace below confirms successful approval routing and conditional task generation with zero errors.
 
-> **[INSERT SCREENSHOT: Flow Execution Trace with Green Checkmarks]**
+![Flow Execution Trace](execution.png)
 
 ### 🏁 Final Result
 End-to-end completion: The request record is successfully marked as **Completed** upon closure of the final `sc_task`.
 
-> **[INSERT SCREENSHOT: Success Record showing Status: Completed]**
+![Success Record](success.png)
 
 ---
 
