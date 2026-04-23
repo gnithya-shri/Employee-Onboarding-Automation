@@ -40,7 +40,7 @@ The "brain" of the application handles the lifecycle:
 *   **Departmental Branching:** `If/Else` logic to route tasks specifically to **IT, HR, or Finance**.
 *   **State Sync:** Flow "Waits for Condition" to ensure parent records close only when fulfillment is 100% finished.
 
-![Flow Logic Diagram](flow.png)
+![Flow Logic Diagram](flow_.png)
 
 ---
 
